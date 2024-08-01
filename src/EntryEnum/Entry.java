@@ -1,4 +1,4 @@
-package EnryEnum;
+package EntryEnum;
 
 public enum Entry {
     MENU(1,"MENU"),
